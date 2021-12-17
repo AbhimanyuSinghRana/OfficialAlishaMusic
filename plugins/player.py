@@ -381,7 +381,7 @@ async def skip(_, message: Message):
 
     await message.reply_photo(
                              photo="https://telegra.ph/file/763dedb3000b7f03168ea.jpg", 
-                             caption=f'**💥 Ʌɗɩtyɑ 🔈 Mʋsɩƈ🤞Nøω 🥀\n⏩ Sƙɩƥƥɘɗ 🌷 ...**'
+                             caption=f'**💥 Aɭɩsʜʌ 🔈 Mʋsɩƈ🤞Nøω 🥀\n⏩ Sƙɩƥƥɘɗ 🌷 ...**'
    ) 
 
 
@@ -397,7 +397,7 @@ async def stop(_, message: Message):
     await clientbot.pytgcalls.leave_group_call(message.chat.id)
     await message.reply_photo(
                              photo="https://telegra.ph/file/763dedb3000b7f03168ea.jpg", 
-                             caption="**💥 Ʌɗɩtyɑ 🔈 Mʋsɩƈ🤞Nøω 🥀\n❌ Sʈøƥƥɘɗ 🌷 ...**"
+                             caption="**💥 Aɭɩsʜʌ 🔈 Mʋsɩƈ🤞Nøω 🥀\n❌ Sʈøƥƥɘɗ 🌷 ...**"
     )
 
 
@@ -415,5 +415,5 @@ async def admincache(client, message: Message):
 
     await message.reply_photo(
                               photo="https://telegra.ph/file/763dedb3000b7f03168ea.jpg",
-                              caption="**💥 Ʌɗɩtyɑ 🔈 Mʋsɩƈ🤞Nøω 🥀\n🔥 Ʀɘɭøɑɗɘɗ 🌷 ...**"
+                              caption="**💥 Aɭɩsʜʌ 🔈 Mʋsɩƈ🤞Nøω 🥀\n🔥 Ʀɘɭøɑɗɘɗ 🌷 ...**"
     )
